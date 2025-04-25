@@ -1,75 +1,92 @@
-# Hi, I'm Rashmi
+# 👋 Hi, I'm Rashmi
 
-I am a passionate data science professional with a strong foundation in analytics, machine learning, and data storytelling. Certified in Data Science and experienced across domains such as retail, loyalty programs, and clinical systems, I focus on transforming complex data into clear, actionable insights that support impactful decision-making.
-
----
-
-## Skills & Tools
-
-### Programming
-- Python
-- SQL
-- Unix Shell Scripting
-
-### Databases
-- PostgreSQL
-- OracleDB
-- MySQL
-- BigQuery
-
-### Data Visualization
-- Tableau
-- Power BI
-- Google Analytics
-- Grafana
-
-### Libraries & Frameworks
-- Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-- Seaborn, Matplotlib
-- BeautifulSoup, Scrapy
-- NLP
-
-### Data Platforms & Tools
-- Jupyter Notebook
-- Apache Spark, Hadoop, Hive
-
-### DevOps & Testing
-- Git
-- Jenkins
-- TortoiseSVN
-- SoapUI, Postman
-
-### Project Management
-- Agile methodologies (Scrum, Kanban)
-- JIRA, Confluence
+🎯 I’m a passionate **Data Science Professional** with a love for transforming data into meaningful insights.  
+💡 Certified in Data Science and experienced in customer analytics, machine learning, and data storytelling.
 
 ---
 
-## Certifications & Education
+## 🧠 About Me
 
-- **Post Graduate Certification in Data Science** – Edureka (IIT-Guwahati)
-- **B.E. in Electronics and Communication** – VTU
-- Master SQL for Data Science – Udemy  
-- Scrum Fundamentals – SCRUMStudy
-
----
-
-## Languages
-
-- English – Professional (C2)
-- German – Intermediate (B1)
+- 🧪 Currently exploring ways to blend **analytics** and **creativity** for smarter decision-making.
+- 🛒 Worked on loyalty insights and customer profiling for top retail brands.
+- 🖥️ Background in **engineering**, transitioning into **data-driven storytelling**.
+- 🔍 Curious by nature, obsessed with the *why* behind the numbers.
 
 ---
 
-## Interests
+## 🔧 Skills & Tools
 
-- Data visualization and insight communication  
-- Applied machine learning  
-- Travel, sketching, cooking, and fitness
+### 🐍 Programming Languages
+- `Python` 🐍
+- `SQL` 🛢️
+- `Unix Shell Scripting` 💻
+
+### 🗃️ Databases
+- `PostgreSQL` 🐘
+- `OracleDB` 🧾
+- `MySQL` 🧂
+- `BigQuery` ☁️
+
+### 📊 Visualization & BI Tools
+- `Tableau` 📈
+- `PowerBI` 📊
+- `Google Analytics` 📉
+- `Grafana` 🌐
+
+### 🧰 Libraries & Frameworks
+- `Pandas` 🐼
+- `NumPy` ➗
+- `Scikit-learn` 🤖
+- `TensorFlow` 🔬
+- `Keras` 🧠
+- `Seaborn` 🎨
+- `Matplotlib` 📘
+- `BeautifulSoup` 🍜
+- `Scrapy` 🕷️
+- `NLP` 🗣️
+
+### 🔥 Data Tools & Platforms
+- `Jupyter Notebook` 📓
+- `Apache Spark` ⚡
+- `Hadoop` 🐘
+- `Hive` 🐝
+- `Docker` 🐳
+
+### 🛠️ Dev Tools
+- `Git` 🔧
+- `Jenkins` 🧰
+- `TortoiseSVN` 🐢
+- `SoapUI` 🧼
+- `Postman` 📬
+
+### 📋 Project Management
+- `Agile / Scrum / Kanban` 🏃
+- `JIRA` 📌
+- `Confluence` 📚
 
 ---
 
-## Connect
+## 🧪 Certifications & Projects
+- 🎓 **Post Graduate Certification in Data Science** (IIT-Guwahati, Edureka)
+- 🧬 Built models for customer segmentation, loyalty analysis, and clinical data predictions.
+- ☕ Internships & self-driven projects in business analytics, ML, and data cleaning.
 
-[LinkedIn](https://www.linkedin.com/in/rashmi-vijayasarthy-039212160)  
-📫 v.rashmi95@gmail.com
+---
+
+## 🌍 Languages
+- 🇬🇧 English (Professional, C2)
+- 🇩🇪 German (Intermediate, B1)
+
+---
+
+## 🎨 Interests
+- ✈️ Traveling
+- 🍳 Cooking
+- ✏️ Sketching
+- 🧘 Fitness & Wellness
+
+---
+
+### 📫 Let’s connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rashmi-vijayasarthy-039212160)
